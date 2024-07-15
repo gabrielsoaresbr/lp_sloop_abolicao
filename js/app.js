@@ -1,1 +1,1051 @@
-function _0x45f4(){const _0x2957b5=['ready','random','html','atualizarBadgeTotal','carregarResumo','#lblValorEntrega','each','.etapa1','Informe\x20a\x20Cidade,\x20por\x20favor.','green','10KLwyvF','.etapa','getJSON','#lblTituloEtapa','name','append','cidade','#btnEtapaEndereco','#msg-','#btnVerMais','13831150gyXMbU','935490wFHwMK','#ddlUf','/json/?callback=?','#txtCidade','<div\x20id=\x22msg-','itemResumo','replace','test','#depoimento-3','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-12\x20col-lg-3\x20col-md-3\x20col-sm-6\x20mb-5\x20wow\x20fadeInUp\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22card\x20card-item\x22\x20id=\x22${id}\x22\x20onclick=\x22cardapio.metodos.clickItemMenu(\x27${id}\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22img-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22${imagem}\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22title-produto\x20text-center\x20mt-4\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>${nome}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22price-produto\x20text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>R$\x20${preco}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22add-carrinho\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn-menos\x22\x20onclick=\x22cardapio.metodos.diminuirQuantidade(\x27${id}\x27)\x22><i\x20class=\x22fas\x20fa-minus\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22add-numero-itens\x22\x20id=\x22qntd-${id}\x22>0</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn-mais\x22\x20onclick=\x22cardapio.metodos.aumentarQuantidade(\x27${id}\x27)\x22><i\x20class=\x22fas\x20fa-plus\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn\x20btn-add\x22\x20onclick=\x22cardapio.metodos.adicionarAoCarrinho(\x27${id}\x27)\x22><i\x20class=\x22fa\x20fa-shopping-bag\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','cep','x*\x20','CEP\x20não\x20encontrado.\x20Preencha\x20as\x20informações\x20manualmente,\x20por\x20favor.','.badge-total-carrinho','qntd','push','.container-total-carrinho','Endereço\x20de\x20entrega:','ativo','\x0a*Itens\x20do\x20pedido:*\x0a\x0a${itens}','erro','5053181JYmfzP','\x0a*Endereço\x20de\x20entrega:*','#btnDepoimento-','#btnEtapaPedido','fadeInDown','.etapa.active','removerItemCarrinho','#depoimento-1','Informe\x20a\x20UF,\x20por\x20favor.','templates','img','carregarCarrinho','endereco','.etapa2','#txtNumero','https://wa.me/5521994386262?text=','vermais','#btnEtapaResumo','.etapa3','#resumoEndereco','#localEntrega','#resumoCarrinho','menu-','removeClass','split','findIndex','11IjjsZk','finalizarPedido','Formato\x20de\x20CEP\x20inválido.','mensagem','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-12\x20item-carrinho\x20resumo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22img-produto-resumo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22${imagem}\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dados-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22title-produto-resumo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>${nome}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22price-produto-resumo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>R$\x20${preco}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22quantidade-produto-resumo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20x\x20<b>${qntd}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','existe','eventos','bairro','picoles','init','hidden','Informe\x20o\x20Bairro,\x20por\x20favor.','R$\x20','objIndex','#listaItensResumo','focus','https://viacep.com.br/ws/','addClass','active','attr','carregarValores','text','toFixed','4637752bfhXJI','carregarEtapa','#lblValorTotal','\x0a\x0a*Total\x20(ENTREGA\x20SOMAR\x20+\x20R$7,00):\x20R$\x20','#modalCarrinho','Seu\x20carrinho\x20está\x20vazio\x20:/','96351WFLNiG','#container-mensagens','#qntd-','.botao-carrinho','Item\x20adicionado\x20ao\x20carrinho','val','grep','length','Resumo\x20do\x20pedido:','numero','#btnVoltar','log','floor','metodos','.container-menu\x20a','Informe\x20o\x20Número,\x20por\x20favor.','Informe\x20o\x20CEP,\x20por\x20favor.','R$\x200,00','#depoimento-2','price','logradouro','obterItensCardapio','\x22\x20class=\x22animated\x20fadeInDown\x20toast\x20','#txtBairro','305547dmzkTf','.container-menu\x20a.active','Seu\x20carrinho:','2139750ywnkOv','#itensCardapio','2rLscAT','#depoimento-','#qntd-carrinho-','8vrzdJz','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-12\x20item-carrinho\x20animated\x20fadeInUp\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22img-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22${imagem}\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dados-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22title-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>${nome}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22price-produto\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<b>R$\x20${preco}</b>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22add-carrinho\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn-menos\x22\x20onclick=\x22cardapio.metodos.diminuirQuantidadeCarrinho(\x27${id}\x27)\x22><i\x20class=\x22fas\x20fa-minus\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22add-numero-itens\x22\x20id=\x22qntd-carrinho-${id}\x22>${qntd}</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn-mais\x22\x20onclick=\x22cardapio.metodos.aumentarQuantidadeCarrinho(\x27${id}\x27)\x22><i\x20class=\x22fas\x20fa-plus\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22btn\x20btn-remove\x20no-mobile\x22\x20onclick=\x22cardapio.metodos.removerItemCarrinho(\x27${id}\x27)\x22><i\x20class=\x22fa\x20fa-times\x22></i></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','Olá!\x20gostaria\x20de\x20fazer\x20uma\x20*reserva*','#lblSubTotal','#itensCarrinho','toString','localidade','href','itemCarrinho','now','#txtCEP','#txtEndereco'];_0x45f4=function(){return _0x2957b5;};return _0x45f4();}const _0x5f51a9=_0x1a34;(function(_0x3da7a4,_0x4f3414){const _0x1ef872=_0x1a34,_0x3c2277=_0x3da7a4();while(!![]){try{const _0x5de313=parseInt(_0x1ef872(0x113))/0x1*(-parseInt(_0x1ef872(0xa3))/0x2)+-parseInt(_0x1ef872(0x9e))/0x3+-parseInt(_0x1ef872(0x10d))/0x4+parseInt(_0x1ef872(0xbc))/0x5*(-parseInt(_0x1ef872(0xc7))/0x6)+-parseInt(_0x1ef872(0xdc))/0x7*(-parseInt(_0x1ef872(0xa6))/0x8)+parseInt(_0x1ef872(0xa1))/0x9+-parseInt(_0x1ef872(0xc6))/0xa*(-parseInt(_0x1ef872(0xf6))/0xb);if(_0x5de313===_0x4f3414)break;else _0x3c2277['push'](_0x3c2277['shift']());}catch(_0x3ee65e){_0x3c2277['push'](_0x3c2277['shift']());}}}(_0x45f4,0xa4600),$(document)[_0x5f51a9(0xb2)](function(){const _0x4057b0=_0x5f51a9;cardapio[_0x4057b0(0xfc)][_0x4057b0(0xff)]();}));var cardapio={},MEU_CARRINHO=[],MEU_ENDERECO=null,VALOR_ENTREGA=0x7,VALOR_CARRINHO=0x0;function _0x1a34(_0x199bc7,_0xc54e07){const _0x45f4bc=_0x45f4();return _0x1a34=function(_0x1a3476,_0x19984a){_0x1a3476=_0x1a3476-0x8a;let _0x28b9da=_0x45f4bc[_0x1a3476];return _0x28b9da;},_0x1a34(_0x199bc7,_0xc54e07);}cardapio['eventos']={'init':()=>{const _0x79db8a=_0x5f51a9;cardapio['metodos'][_0x79db8a(0x9b)]();}},cardapio[_0x5f51a9(0x93)]={'obterItensCardapio':(_0x1ffa6c=_0x5f51a9(0xfe),_0x2585af=![])=>{const _0x59891a=_0x5f51a9;let _0x16b512=MENU[_0x1ffa6c];!_0x2585af&&($(_0x59891a(0xa2))['html'](''),$(_0x59891a(0xc5))[_0x59891a(0xf3)](_0x59891a(0x100))),$['each'](_0x16b512,(_0xce1818,_0x14c05b)=>{const _0x69f8c8=_0x59891a;let _0x2ce369=cardapio[_0x69f8c8(0xe5)]['item'][_0x69f8c8(0xcd)](/\${imagem}/g,_0x14c05b['img'])['replace'](/\${nome}/g,_0x14c05b[_0x69f8c8(0xc0)])['replace'](/\${preco}/g,_0x14c05b[_0x69f8c8(0x99)][_0x69f8c8(0x10c)](0x2)['replace']('.',','))[_0x69f8c8(0xcd)](/\${id}/g,_0x14c05b['id']);console['log'](_0x69f8c8(0xec),_0x2585af),console[_0x69f8c8(0x91)]('i',_0xce1818),_0x2585af&&_0xce1818>=0x8&&_0xce1818<0xc&&$(_0x69f8c8(0xa2))[_0x69f8c8(0xc1)](_0x2ce369),!_0x2585af&&_0xce1818<0x8&&$(_0x69f8c8(0xa2))[_0x69f8c8(0xc1)](_0x2ce369);}),$(_0x59891a(0x94))[_0x59891a(0xf3)](_0x59891a(0x108)),$('#menu-'+_0x1ffa6c)[_0x59891a(0x107)](_0x59891a(0x108));},'verMais':()=>{const _0x40f84b=_0x5f51a9;var _0x330387=$('.container-menu\x20a.active')[_0x40f84b(0x109)]('id')[_0x40f84b(0xf4)](_0x40f84b(0xf2))[0x1];console['log'](_0x40f84b(0xd9),_0x330387),cardapio[_0x40f84b(0x93)][_0x40f84b(0x9b)](_0x330387,!![]),$(_0x40f84b(0xc5))[_0x40f84b(0x107)](_0x40f84b(0x100));},'clickItemMenu':_0x34cf5b=>{const _0x171cc3=_0x5f51a9;$('#itensCardapio\x20.card-item')[_0x171cc3(0xf3)]('active'),$('#'+_0x34cf5b)[_0x171cc3(0x107)]('active');},'diminuirQuantidade':_0x345b98=>{const _0x1a43f0=_0x5f51a9;let _0x6b3b1=parseInt($(_0x1a43f0(0x115)+_0x345b98)['text']());_0x6b3b1>0x0&&$(_0x1a43f0(0x115)+_0x345b98)[_0x1a43f0(0x10b)](_0x6b3b1-0x1);},'aumentarQuantidade':_0x4d2182=>{const _0x46b613=_0x5f51a9;let _0x188764=parseInt($(_0x46b613(0x115)+_0x4d2182)[_0x46b613(0x10b)]());console[_0x46b613(0x91)](_0x188764),$(_0x46b613(0x115)+_0x4d2182)[_0x46b613(0x10b)](_0x188764+0x1);},'adicionarAoCarrinho':_0x580daa=>{const _0x29cf8a=_0x5f51a9;let _0x4d2c44=parseInt($(_0x29cf8a(0x115)+_0x580daa)[_0x29cf8a(0x10b)]());if(_0x4d2c44>0x0){var _0x219a3e=$(_0x29cf8a(0x9f))[_0x29cf8a(0x109)]('id')[_0x29cf8a(0xf4)](_0x29cf8a(0xf2))[0x1];let _0x41e861=MENU[_0x219a3e],_0x5ba723=$[_0x29cf8a(0x8c)](_0x41e861,(_0x285928,_0x210418)=>{return _0x285928['id']==_0x580daa;});if(_0x5ba723[_0x29cf8a(0x8d)]>0x0){let _0x2d5d00=$[_0x29cf8a(0x8c)](MEU_CARRINHO,(_0x5f1ffc,_0x1ea8bb)=>{return _0x5f1ffc['id']==_0x580daa;});console[_0x29cf8a(0x91)](_0x29cf8a(0xfb),_0x2d5d00);if(_0x2d5d00['length']>0x0){let _0x3b561b=MEU_CARRINHO[_0x29cf8a(0xf5)](_0xb1e10c=>_0xb1e10c['id']==_0x580daa);console[_0x29cf8a(0x91)](_0x29cf8a(0x103),_0x3b561b),MEU_CARRINHO[_0x3b561b][_0x29cf8a(0xd5)]=MEU_CARRINHO[_0x3b561b]['qntd']+_0x4d2c44;}else _0x5ba723[0x0]['qntd']=_0x4d2c44,MEU_CARRINHO[_0x29cf8a(0xd6)](_0x5ba723[0x0]);cardapio['metodos'][_0x29cf8a(0xf9)](_0x29cf8a(0x8a),_0x29cf8a(0xbb)),$('#qntd-'+_0x580daa)[_0x29cf8a(0x10b)](0x0),cardapio[_0x29cf8a(0x93)][_0x29cf8a(0xb5)]();}}},'atualizarBadgeTotal':()=>{const _0x3ca1f3=_0x5f51a9;var _0x2954e7=0x0;$[_0x3ca1f3(0xb8)](MEU_CARRINHO,(_0x3664f7,_0x40e139)=>{const _0xbbf6a6=_0x3ca1f3;_0x2954e7+=_0x40e139[_0xbbf6a6(0xd5)];}),_0x2954e7>0x0?($(_0x3ca1f3(0x116))[_0x3ca1f3(0xf3)](_0x3ca1f3(0x100)),$(_0x3ca1f3(0xd7))['removeClass'](_0x3ca1f3(0x100))):($('.botao-carrinho')[_0x3ca1f3(0x107)](_0x3ca1f3(0x100)),$(_0x3ca1f3(0xd7))[_0x3ca1f3(0x107)](_0x3ca1f3(0x100))),$(_0x3ca1f3(0xd4))[_0x3ca1f3(0xb4)](_0x2954e7);},'abrirCarrinho':_0x3eaa66=>{const _0x45a048=_0x5f51a9;_0x3eaa66?($(_0x45a048(0x111))[_0x45a048(0xf3)](_0x45a048(0x100)),cardapio['metodos'][_0x45a048(0xe7)]()):$('#modalCarrinho')[_0x45a048(0x107)](_0x45a048(0x100));},'carregarEtapa':_0x4a0db2=>{const _0x44a763=_0x5f51a9;_0x4a0db2==0x1&&($(_0x44a763(0xbf))[_0x44a763(0x10b)](_0x44a763(0xa0)),$(_0x44a763(0xaa))[_0x44a763(0xf3)]('hidden'),$(_0x44a763(0xf0))[_0x44a763(0x107)](_0x44a763(0x100)),$(_0x44a763(0xf1))[_0x44a763(0x107)](_0x44a763(0x100)),$('.etapa')[_0x44a763(0xf3)](_0x44a763(0x108)),$(_0x44a763(0xb9))['addClass'](_0x44a763(0x108)),$('#btnEtapaPedido')[_0x44a763(0xf3)]('hidden'),$(_0x44a763(0xc3))[_0x44a763(0x107)]('hidden'),$('#btnEtapaResumo')[_0x44a763(0x107)](_0x44a763(0x100)),$(_0x44a763(0x90))[_0x44a763(0x107)](_0x44a763(0x100))),_0x4a0db2==0x2&&($(_0x44a763(0xbf))[_0x44a763(0x10b)](_0x44a763(0xd8)),$(_0x44a763(0xaa))[_0x44a763(0x107)]('hidden'),$(_0x44a763(0xf0))['removeClass'](_0x44a763(0x100)),$('#resumoCarrinho')[_0x44a763(0x107)](_0x44a763(0x100)),$(_0x44a763(0xbd))[_0x44a763(0xf3)](_0x44a763(0x108)),$(_0x44a763(0xb9))['addClass'](_0x44a763(0x108)),$(_0x44a763(0xe9))['addClass'](_0x44a763(0x108)),$(_0x44a763(0xdf))[_0x44a763(0x107)](_0x44a763(0x100)),$(_0x44a763(0xc3))[_0x44a763(0xf3)](_0x44a763(0x100)),$(_0x44a763(0xed))[_0x44a763(0x107)]('hidden'),$('#btnVoltar')[_0x44a763(0xf3)](_0x44a763(0x100))),_0x4a0db2==0x3&&($(_0x44a763(0xbf))[_0x44a763(0x10b)](_0x44a763(0x8e)),$(_0x44a763(0xaa))[_0x44a763(0x107)]('hidden'),$(_0x44a763(0xf0))[_0x44a763(0x107)]('hidden'),$(_0x44a763(0xf1))[_0x44a763(0xf3)](_0x44a763(0x100)),$('.etapa')[_0x44a763(0xf3)](_0x44a763(0x108)),$(_0x44a763(0xb9))['addClass'](_0x44a763(0x108)),$(_0x44a763(0xe9))[_0x44a763(0x107)](_0x44a763(0x108)),$(_0x44a763(0xee))['addClass'](_0x44a763(0x108)),$(_0x44a763(0xdf))[_0x44a763(0x107)]('hidden'),$(_0x44a763(0xc3))[_0x44a763(0x107)](_0x44a763(0x100)),$(_0x44a763(0xed))[_0x44a763(0xf3)](_0x44a763(0x100)),$(_0x44a763(0x90))[_0x44a763(0xf3)](_0x44a763(0x100)));},'voltarEtapa':()=>{const _0x30fd99=_0x5f51a9;let _0x35b17a=$(_0x30fd99(0xe1))[_0x30fd99(0x8d)];cardapio[_0x30fd99(0x93)][_0x30fd99(0x10e)](_0x35b17a-0x1);},'carregarCarrinho':()=>{const _0x414fc4=_0x5f51a9;cardapio[_0x414fc4(0x93)][_0x414fc4(0x10e)](0x1),MEU_CARRINHO[_0x414fc4(0x8d)]>0x0?($(_0x414fc4(0xaa))['html'](''),$[_0x414fc4(0xb8)](MEU_CARRINHO,(_0x2d6f21,_0x445beb)=>{const _0x2de509=_0x414fc4;let _0x57237c=cardapio[_0x2de509(0xe5)][_0x2de509(0xae)][_0x2de509(0xcd)](/\${imagem}/g,_0x445beb[_0x2de509(0xe6)])['replace'](/\${nome}/g,_0x445beb[_0x2de509(0xc0)])['replace'](/\${preco}/g,_0x445beb['price'][_0x2de509(0x10c)](0x2)[_0x2de509(0xcd)]('.',','))[_0x2de509(0xcd)](/\${id}/g,_0x445beb['id'])[_0x2de509(0xcd)](/\${qntd}/g,_0x445beb[_0x2de509(0xd5)]);$('#itensCarrinho')['append'](_0x57237c),_0x2d6f21+0x1==MEU_CARRINHO['length']&&cardapio[_0x2de509(0x93)][_0x2de509(0x10a)]();})):($(_0x414fc4(0xaa))[_0x414fc4(0xb4)]('<p\x20class=\x22carrinho-vazio\x22><i\x20class=\x22fa\x20fa-shopping-bag\x22></i>Seu\x20carrinho\x20está\x20vazio.</p>'),cardapio[_0x414fc4(0x93)][_0x414fc4(0x10a)]());},'removerItemCarrinho':_0x2d65fb=>{const _0x148c84=_0x5f51a9;MEU_CARRINHO=$[_0x148c84(0x8c)](MEU_CARRINHO,(_0x4d8ca1,_0x26d887)=>{return _0x4d8ca1['id']!=_0x2d65fb;}),cardapio[_0x148c84(0x93)][_0x148c84(0xe7)](),cardapio[_0x148c84(0x93)][_0x148c84(0xb5)]();},'diminuirQuantidadeCarrinho':_0x282399=>{const _0x1b908e=_0x5f51a9;let _0x459501=parseInt($('#qntd-carrinho-'+_0x282399)[_0x1b908e(0x10b)]());_0x459501>0x1?($(_0x1b908e(0xa5)+_0x282399)[_0x1b908e(0x10b)](_0x459501-0x1),cardapio['metodos']['atualizarCarrinho'](_0x282399,_0x459501-0x1)):cardapio[_0x1b908e(0x93)][_0x1b908e(0xe2)](_0x282399);},'aumentarQuantidadeCarrinho':_0x5f642=>{const _0x4878ea=_0x5f51a9;let _0x26b427=parseInt($(_0x4878ea(0xa5)+_0x5f642)['text']());console[_0x4878ea(0x91)](_0x26b427),$(_0x4878ea(0xa5)+_0x5f642)[_0x4878ea(0x10b)](_0x26b427+0x1),cardapio[_0x4878ea(0x93)]['atualizarCarrinho'](_0x5f642,_0x26b427+0x1);},'atualizarCarrinho':(_0x33c075,_0x3a8b49)=>{const _0x2473eb=_0x5f51a9;let _0x19099c=MEU_CARRINHO[_0x2473eb(0xf5)](_0x245d59=>_0x245d59['id']==_0x33c075);MEU_CARRINHO[_0x19099c][_0x2473eb(0xd5)]=_0x3a8b49,cardapio[_0x2473eb(0x93)][_0x2473eb(0xb5)](),cardapio[_0x2473eb(0x93)][_0x2473eb(0x10a)]();},'carregarValores':()=>{const _0x15cf81=_0x5f51a9;VALOR_CARRINHO=0x0,$('#lblSubTotal')[_0x15cf81(0x10b)](_0x15cf81(0x97)),$('#lblValorEntrega')[_0x15cf81(0x10b)]('+\x20R$\x200,00'),$(_0x15cf81(0x10f))[_0x15cf81(0x10b)](_0x15cf81(0x97)),$[_0x15cf81(0xb8)](MEU_CARRINHO,(_0x6dce86,_0x1195b7)=>{const _0x43574c=_0x15cf81;VALOR_CARRINHO+=parseFloat(_0x1195b7[_0x43574c(0x99)]*_0x1195b7['qntd']),_0x6dce86+0x1==MEU_CARRINHO[_0x43574c(0x8d)]&&($(_0x43574c(0xa9))[_0x43574c(0x10b)](_0x43574c(0x102)+VALOR_CARRINHO['toFixed'](0x2)[_0x43574c(0xcd)]('.',',')),$(_0x43574c(0xb7))[_0x43574c(0x10b)]('+\x20R$\x20'+VALOR_ENTREGA[_0x43574c(0x10c)](0x2)[_0x43574c(0xcd)]('.',',')),$(_0x43574c(0x10f))['text'](_0x43574c(0x102)+(VALOR_CARRINHO+VALOR_ENTREGA)[_0x43574c(0x10c)](0x2)['replace']('.',',')));});},'carregarEndereco':()=>{const _0x3bded3=_0x5f51a9;if(MEU_CARRINHO[_0x3bded3(0x8d)]<=0x0){cardapio[_0x3bded3(0x93)][_0x3bded3(0xf9)](_0x3bded3(0x112));return;}cardapio['metodos']['carregarEtapa'](0x2);},'buscarCep':()=>{const _0x487dde=_0x5f51a9;var _0x506781=$(_0x487dde(0xb0))[_0x487dde(0x8b)]()['replace'](/\D/g,'');if(_0x506781!=''){var _0x14416b=/^[0-9]{8}$/;_0x14416b[_0x487dde(0xce)](_0x506781)?$[_0x487dde(0xbe)](_0x487dde(0x106)+_0x506781+_0x487dde(0xc9),function(_0x5c4f26){const _0x42a988=_0x487dde;!(_0x42a988(0xdb)in _0x5c4f26)?($(_0x42a988(0xb1))[_0x42a988(0x8b)](_0x5c4f26[_0x42a988(0x9a)]),$(_0x42a988(0x9d))[_0x42a988(0x8b)](_0x5c4f26[_0x42a988(0xfd)]),$(_0x42a988(0xca))['val'](_0x5c4f26[_0x42a988(0xac)]),$('#ddlUf')['val'](_0x5c4f26['uf']),$(_0x42a988(0xea))[_0x42a988(0x105)]()):(cardapio[_0x42a988(0x93)][_0x42a988(0xf9)](_0x42a988(0xd3)),$(_0x42a988(0xb0))['focus']());}):(cardapio[_0x487dde(0x93)]['mensagem'](_0x487dde(0xf8)),$('#txtCEP')['focus']());}else cardapio['metodos'][_0x487dde(0xf9)](_0x487dde(0x96)),$(_0x487dde(0xb0))[_0x487dde(0x105)]();},'resumoPedido':()=>{const _0x166999=_0x5f51a9;let _0x49bf47=$('#txtCEP')[_0x166999(0x8b)]()['trim'](),_0x3291b3=$('#txtEndereco')[_0x166999(0x8b)](),_0x40cbc7=$('#txtBairro')[_0x166999(0x8b)](),_0x90b4b8=$('#txtCidade')[_0x166999(0x8b)](),_0x42bf2a=$(_0x166999(0xc8))[_0x166999(0x8b)](),_0x3150a8=$(_0x166999(0xea))[_0x166999(0x8b)](),_0x54bd86=$('#txtComplemento')[_0x166999(0x8b)]();if(_0x49bf47[_0x166999(0x8d)]<=0x0){cardapio[_0x166999(0x93)][_0x166999(0xf9)]('Informe\x20o\x20CEP,\x20por\x20favor.'),$('#txtCEP')['focus']();return;}if(_0x3291b3[_0x166999(0x8d)]<=0x0){cardapio['metodos'][_0x166999(0xf9)]('Informe\x20o\x20Endereço,\x20por\x20favor.'),$(_0x166999(0xb1))[_0x166999(0x105)]();return;}if(_0x40cbc7[_0x166999(0x8d)]<=0x0){cardapio[_0x166999(0x93)]['mensagem'](_0x166999(0x101)),$('#txtBairro')['focus']();return;}if(_0x90b4b8[_0x166999(0x8d)]<=0x0){cardapio[_0x166999(0x93)][_0x166999(0xf9)](_0x166999(0xba)),$(_0x166999(0xca))[_0x166999(0x105)]();return;}if(_0x42bf2a=='-1'){cardapio[_0x166999(0x93)]['mensagem'](_0x166999(0xe4)),$(_0x166999(0xc8))[_0x166999(0x105)]();return;}if(_0x3150a8[_0x166999(0x8d)]<=0x0){cardapio[_0x166999(0x93)][_0x166999(0xf9)](_0x166999(0x95)),$(_0x166999(0xea))['focus']();return;}MEU_ENDERECO={'cep':_0x49bf47,'endereco':_0x3291b3,'bairro':_0x40cbc7,'cidade':_0x90b4b8,'uf':_0x42bf2a,'numero':_0x3150a8,'complemento':_0x54bd86},cardapio['metodos'][_0x166999(0x10e)](0x3),cardapio[_0x166999(0x93)][_0x166999(0xb6)]();},'carregarResumo':()=>{const _0x35173d=_0x5f51a9;$('#listaItensResumo')['html'](''),$[_0x35173d(0xb8)](MEU_CARRINHO,(_0xe54553,_0x44efff)=>{const _0xa37da3=_0x35173d;let _0x2c6fe8=cardapio[_0xa37da3(0xe5)][_0xa37da3(0xcc)][_0xa37da3(0xcd)](/\${imagem}/g,_0x44efff[_0xa37da3(0xe6)])[_0xa37da3(0xcd)](/\${nome}/g,_0x44efff[_0xa37da3(0xc0)])[_0xa37da3(0xcd)](/\${preco}/g,_0x44efff['price'][_0xa37da3(0x10c)](0x2)[_0xa37da3(0xcd)]('.',','))['replace'](/\${qntd}/g,_0x44efff[_0xa37da3(0xd5)]);$(_0xa37da3(0x104))['append'](_0x2c6fe8);}),$(_0x35173d(0xef))[_0x35173d(0xb4)](MEU_ENDERECO[_0x35173d(0xe8)]+',\x20'+MEU_ENDERECO[_0x35173d(0x8f)]+',\x20'+MEU_ENDERECO[_0x35173d(0xfd)]),$('#cidadeEndereco')[_0x35173d(0xb4)](MEU_ENDERECO[_0x35173d(0xc2)]+'-'+MEU_ENDERECO['uf']+'\x20/\x20'+MEU_ENDERECO[_0x35173d(0xd1)]),cardapio[_0x35173d(0x93)][_0x35173d(0xf7)]();},'finalizarPedido':()=>{const _0x301a92=_0x5f51a9;if(MEU_CARRINHO[_0x301a92(0x8d)]>0x0&&MEU_ENDERECO!=null){var _0x2990fd='Olá!\x20gostaria\x20de\x20fazer\x20um\x20pedido:';_0x2990fd+=_0x301a92(0xda),_0x2990fd+=_0x301a92(0xdd),_0x2990fd+='\x0a'+MEU_ENDERECO['endereco']+',\x20'+MEU_ENDERECO[_0x301a92(0x8f)]+',\x20'+MEU_ENDERECO[_0x301a92(0xfd)],_0x2990fd+='\x0a'+MEU_ENDERECO[_0x301a92(0xc2)]+'-'+MEU_ENDERECO['uf']+'\x20/\x20'+MEU_ENDERECO['cep'],_0x2990fd+=_0x301a92(0x110)+VALOR_CARRINHO[_0x301a92(0x10c)](0x2)[_0x301a92(0xcd)]('.',',')+'*';var _0x3aea16='';$[_0x301a92(0xb8)](MEU_CARRINHO,(_0x16f18c,_0x3ffd21)=>{const _0x1fa700=_0x301a92;_0x3aea16+='*'+_0x3ffd21[_0x1fa700(0xd5)]+_0x1fa700(0xd2)+_0x3ffd21[_0x1fa700(0xc0)]+'\x20.......\x20R$\x20'+_0x3ffd21['price'][_0x1fa700(0x10c)](0x2)[_0x1fa700(0xcd)]('.',',')+'\x20\x0a';if(_0x16f18c+0x1==MEU_CARRINHO[_0x1fa700(0x8d)]){_0x2990fd=_0x2990fd[_0x1fa700(0xcd)](/\${itens}/g,_0x3aea16);let _0x1a9380=encodeURI(_0x2990fd),_0x1fe615=_0x1fa700(0xeb)+_0x1a9380;$(_0x1fa700(0xed))[_0x1fa700(0x109)](_0x1fa700(0xad),_0x1fe615);}});}},'carregarBotaoReserva':()=>{const _0x553862=_0x5f51a9;var _0x29d767=_0x553862(0xa8);let _0x307608=encodeURI(_0x29d767),_0x182a60=_0x553862(0xeb)+_0x307608;$('#btnEtapaResumo')['attr']('href',_0x182a60);},'abrirDepoimento':_0x24e29f=>{const _0x7f4314=_0x5f51a9;$(_0x7f4314(0xe3))['addClass']('hidden'),$(_0x7f4314(0x98))['addClass'](_0x7f4314(0x100)),$(_0x7f4314(0xcf))[_0x7f4314(0x107)](_0x7f4314(0x100)),$('#btnDepoimento-1')[_0x7f4314(0xf3)](_0x7f4314(0x108)),$('#btnDepoimento-2')[_0x7f4314(0xf3)](_0x7f4314(0x108)),$('#btnDepoimento-3')[_0x7f4314(0xf3)](_0x7f4314(0x108)),$(_0x7f4314(0xa4)+_0x24e29f)[_0x7f4314(0xf3)](_0x7f4314(0x100)),$(_0x7f4314(0xde)+_0x24e29f)[_0x7f4314(0x107)](_0x7f4314(0x108));},'mensagem':(_0x24ec6c,_0x22df4b='red',_0x573867=0xdac)=>{const _0x42da62=_0x5f51a9;let _0x17c89f=Math[_0x42da62(0x92)](Date[_0x42da62(0xaf)]()*Math[_0x42da62(0xb3)]())[_0x42da62(0xab)](),_0x33c295=_0x42da62(0xcb)+_0x17c89f+_0x42da62(0x9c)+_0x22df4b+'\x22>'+_0x24ec6c+'</div>';$(_0x42da62(0x114))['append'](_0x33c295),setTimeout(()=>{const _0x747370=_0x42da62;$(_0x747370(0xc4)+_0x17c89f)[_0x747370(0xf3)](_0x747370(0xe0)),$(_0x747370(0xc4)+_0x17c89f)[_0x747370(0x107)]('fadeOutUp'),setTimeout(()=>{const _0x3169e7=_0x747370;$(_0x3169e7(0xc4)+_0x17c89f)['remove']();},0x320);},_0x573867);}},cardapio[_0x5f51a9(0xe5)]={'item':_0x5f51a9(0xd0),'itemCarrinho':_0x5f51a9(0xa7),'itemResumo':_0x5f51a9(0xfa)};
+const CELULAR_EMPRESA = '5521994386262';
+
+const LOJA_ABRE = 10;
+const LOJA_FECHA = 19;
+
+// Inicializa  proximoIdCarrinho com valor salvo no navegador ou o valor 1
+let proximoIdCarrinho = 1;
+
+function obterCarrinhoSalvo() {
+    let carrinho = JSON.parse(localStorage.getItem('meu_carrinho')) || [];
+
+    // Obtém o último item adicionado
+    const ultimoItem = carrinho.length > 0 ? carrinho[carrinho.length - 1] : null;
+
+    // Obtém a expiração do último item
+    const ultimaExpiracao = ultimoItem ? ultimoItem.expiracao : null;
+
+    let carrinhoAtualizado = carrinho.filter(item =>
+        ultimaExpiracao > new Date().getTime()
+    );
+
+    localStorage.setItem('meu_carrinho', JSON.stringify(carrinhoAtualizado));
+
+    if (carrinhoAtualizado.length > 0) {
+        proximoIdCarrinho = localStorage.getItem('proximo_id_carrinho') || 1;
+    }
+
+    return carrinhoAtualizado;
+}
+
+$(document).ready(function () {
+    cardapio.eventos.init();
+});
+
+
+// Mostrar mensagem de loja aberta ou fechada
+document.addEventListener("visibilitychange", function() {
+    if(!document.hidden){
+        cardapio.metodos.lojaAbertaOuFechada();
+    } 
+});
+
+
+
+var cardapio = {};
+
+// Inicializa MEU_CARRINHO com dados salvos no navegador ou uma lista vazia
+var MEU_CARRINHO = obterCarrinhoSalvo() || [];
+
+var MEU_ENDERECO = null;
+var VALOR_CARRINHO = 0;
+var MEU_NOME = null;
+
+
+
+cardapio.eventos = {
+
+    init: () => {
+        cardapio.metodos.obterItensCardapio();
+        cardapio.metodos.atualizarBadgeTotal();
+        cardapio.metodos.atualizarQtdItensCarrinho();
+        cardapio.metodos.carregarBotaoWhatsap();
+        cardapio.metodos.lojaAbertaOuFechada();
+
+    }
+}
+
+cardapio.metodos = {
+
+    // obtem a lista de itens do cardápio
+    obterItensCardapio: (categoria = 'picoles') => {
+        var filtro = MENU[categoria];
+
+        $('#itensCardapio').html('')
+
+        $.each(filtro, (i, e) => {
+            let temp = cardapio.templates.item
+                .replace(/\${img}/g, e.img)
+                .replace(/\${nome}/g, e.name)
+                .replace(/\${preco}/g, e.price.toFixed(2).replace('.', ','))
+                .replace(/\${id}/g, e.id);
+
+            $('#itensCardapio').append(temp)
+        });
+
+        // remove o botao ativo
+        $('.container-menu a').removeClass('active');
+
+        // seta o menu clicado para ativo
+        $('#menu-' + categoria).addClass('active')
+    },
+
+    //adicionar ao carrinho o item do cardápio
+    adicionarAoCarrinho: (id) => {
+        let qtd = 1
+
+        // obter a categoria ativa
+        var categoria = $(".container-menu a.active").attr('id').split('menu-')[1];
+
+        //obtem a lista de itens
+        let filtro = MENU[categoria];
+
+        // obter o item
+        let item = $.grep(filtro, (e, i) => { return e.id == id });
+
+
+        if (item.length > 0) {
+            // Criar um novo objeto de item com um ID de carrinho exclusivo
+            let itemCarrinho = Object.assign({}, item[0]);
+            itemCarrinho.idCarrinho = proximoIdCarrinho;
+            proximoIdCarrinho++; // Incrementar o contador global
+
+            itemCarrinho.qntd = qtd;
+
+            itemCarrinho.expiracao = new Date().getTime() + 45 * 60 * 1000;
+            MEU_CARRINHO.push(itemCarrinho);
+        }
+
+        cardapio.metodos.mensagem('Item adicionado ao carrinho', cor = 'green');
+
+        cardapio.metodos.atualizarBadgeTotal();
+        cardapio.metodos.atualizarQtdItensCarrinho();
+        localStorage.setItem('meu_carrinho', JSON.stringify(MEU_CARRINHO));
+        localStorage.setItem('proximo_id_carrinho', JSON.stringify(proximoIdCarrinho));
+    },
+
+    // atualiza o badge de totais dos botões "Meu Carrinho"
+    atualizarBadgeTotal: () => {
+        var total = 0;
+        $.each(MEU_CARRINHO, (i, e) => {
+            total += e.qntd;
+
+        });
+
+        if (total > 0) {
+            $('.botao-carrinho').removeClass('hidden');
+            $('.container-total-carrinho').removeClass('hidden');
+        }
+        else {
+            $('.botao-carrinho').addClass('hidden');
+            $('.container-total-carrinho').addClass('hidden');
+        }
+
+        $('.badge-total-carrinho').html(total)
+    },
+
+    // atualiza a quantidade de itens do carrinho na parte superior do carrinho
+    atualizarQtdItensCarrinho: () => {
+        const qtdItens = MEU_CARRINHO.length;
+
+        $('#qtd-itens-carrinho').text(qtdItens);
+
+        if (qtdItens != 1) {
+            $('#txt-qtd-itens-carrinho').text('Itens');
+        } else {
+            $('#txt-qtd-itens-carrinho').text('Item');
+        }
+
+    },
+
+    // abrir a modal de carrinho
+    abrirCarrinho: (abrir) => {
+        if (abrir) {
+            $('#modalCarrinho').removeClass('hidden');
+            $('body').addClass('modal-open');
+            cardapio.metodos.carregarCarrinho();
+        }
+        else {
+            $('body').removeClass('modal-open');
+            $('#modalCarrinho').addClass('hidden');
+        }
+    },
+
+    // altera os textos e exibe os botões das etapas
+    carregarEtapa: (etapa) => {
+        if (etapa == 1) {
+            $('#lblTituloEtapa').text('Seu Carrinho: ');
+            $('#itensCarrinho').removeClass('hidden');
+            $('#localEntrega').addClass('hidden');
+            $('#resumoCarrinho').addClass('hidden');
+
+            $('.etapa').removeClass('active');
+            $('.etapa1').addClass('active');
+
+            $('#btnEtapaPedido').removeClass('hidden');
+            $('#btnEtapaEndereco').addClass('hidden');
+            $('#btnEtapaResumo').addClass('hidden');
+            $('#btnEtapaVoltar').addClass('hidden');
+            $('#container-itens-carrinho').removeClass('hidden');
+            $('#btnSairCarrinho').removeClass('hidden');
+
+        }
+        if (etapa == 2) {
+            $('#lblTituloEtapa').text('Endereço de entrega: ');
+            $('#itensCarrinho').addClass('hidden');
+            $('#localEntrega').removeClass('hidden');
+            $('#resumoCarrinho').addClass('hidden');
+
+            $('.etapa').removeClass('active');
+            $('.etapa1').addClass('active');
+            $('.etapa2').addClass('active');
+
+            $('#btnEtapaPedido').addClass('hidden');
+            $('#btnEtapaEndereco').removeClass('hidden');
+            $('#btnEtapaResumo').addClass('hidden');
+            $('#btnEtapaVoltar').removeClass('hidden');
+            $('#container-itens-carrinho').addClass('hidden');
+            $('#btnSairCarrinho').addClass('hidden');
+        }
+        if (etapa == 3) {
+            $('#lblTituloEtapa').text('Resumo do pedido: ');
+            $('#itensCarrinho').addClass('hidden');
+            $('#localEntrega').addClass('hidden');
+            $('#resumoCarrinho').removeClass('hidden');
+
+            $('.etapa').removeClass('active');
+            $('.etapa1').addClass('active');
+            $('.etapa2').addClass('active');
+            $('.etapa3').addClass('active');
+
+            $('#btnEtapaPedido').addClass('hidden');
+            $('#btnEtapaEndereco').addClass('hidden');
+            $('#btnEtapaResumo').removeClass('hidden');
+            $('#btnEtapaVoltar').removeClass('hidden');
+            $('#container-itens-carrinho').removeClass('hidden');
+            $('#btnSairCarrinho').addClass('hidden');
+        }
+    },
+
+    // botão voltar etapa 
+    voltarEtapa: () => {
+        let etapa = $(".etapa.active").length;
+
+        cardapio.metodos.carregarEtapa(etapa - 1);
+    },
+
+    // carrega a lista de itens do carrinho
+    carregarCarrinho: () => {
+        cardapio.metodos.carregarEtapa(1);
+
+        if (MEU_CARRINHO.length > 0) {
+
+            $("#itensCarrinho").html('');
+
+            $.each(MEU_CARRINHO, (i, e) => {
+                // se for milkshake
+                /*if (e.id.includes("milk")) {
+
+                    let itemCarrinho = cardapio.templates.itemCarrinho2.replace(/\${img}/g, e.img)
+                        .replace(/\${nome}/g, e.name)
+                        .replace(/\${preco}/g, e.price.toFixed(2).replace('.', ','))
+                        .replace(/\${id}/g, e.id)
+                        .replace(/\${qntd}/g, e.qntd)
+                        .replace(/\${idCarrinho}/g, e.idCarrinho);
+
+                    $("#itensCarrinho").append(itemCarrinho);
+
+                    // deixar botão de menos com item de excluir se quantidade for 1
+                    let qtdAtual = parseInt($('#qntd-carrinho_' + e.id + '_' + e.idCarrinho).text());
+                    let icon = $('#icon-menos-' + e.id + '_' + e.idCarrinho);
+                    let btn = $('#btn-menos-' + e.id + '_' + e.idCarrinho);
+
+                    if (qtdAtual == 1) {
+                        icon.removeClass('fa-minus');
+                        icon.addClass('fa-times');
+                        btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
+                    }
+
+                    // se for Creme de Acaí ou Vitamina
+                } else {*/
+
+                    let itemCarrinho = cardapio.templates.itemCarrinho.replace(/\${img}/g, e.img)
+                        .replace(/\${nome}/g, e.name)
+                        .replace(/\${preco}/g, e.price.toFixed(2).replace('.', ','))
+                        .replace(/\${id}/g, e.id)
+                        .replace(/\${qntd}/g, e.qntd)
+                        .replace(/\${idCarrinho}/g, e.idCarrinho);
+
+                    $("#itensCarrinho").append(itemCarrinho);
+
+                    // deixar botão de menos com item de excluir se quantidade for 1
+                    let qtdAtual = parseInt($('#qntd-carrinho_' + e.id + '_' + e.idCarrinho).text());
+                    let icon = $('#icon-menos-' + e.id + '_' + e.idCarrinho);
+                    let btn = $('#btn-menos-' + e.id + '_' + e.idCarrinho);
+
+                    if (qtdAtual == 1) {
+                        icon.removeClass('fa-minus');
+                        icon.addClass('fa-times');
+                        btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
+                    }
+                //}
+            });
+
+        }
+        else {
+            cardapio.metodos.carrinhoVazio();
+        }
+
+        console.log('MEU_CARRINHO: ' + JSON.stringify(MEU_CARRINHO))
+        cardapio.metodos.carregarValores();
+    },
+
+    // imprime o icone do carrinho vazio
+    carrinhoVazio: () => {
+        $("#itensCarrinho").html('<p class="carrinho-vazio"><i class="fa fa-shopping-bag"></i> <b>Seu carrinho está vazio.</b></p>');
+    },
+
+    // diminuir quantidade do item no carrinho
+    diminuirQuantidadeCarrinho: (id) => {
+        let qtdAtual = parseInt($('#qntd-carrinho_' + id).text());
+
+        if (qtdAtual > 1) {
+            $('#qntd-carrinho_' + id).text(qtdAtual - 1);
+            cardapio.metodos.atualizarCarrinho(id, --qtdAtual);
+        }
+
+        else {
+            cardapio.metodos.removerItemCarrinho(id);
+        }
+
+        let icon = $('#icon-menos-' + id);
+        let btn = $('#btn-menos-' + id);
+
+
+        if (qtdAtual == 1) {
+            icon.removeClass('fa-minus');
+            icon.addClass('fa-times');
+            btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
+        } else {
+            icon.addClass('fa-minus');
+            icon.removeClass('fa-times');
+            btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
+        }
+
+    },
+    // aumentar quantidade do item no carrinho
+    aumentarQuantidadeCarrinho: (id) => {
+        let qtdAtual = parseInt($('#qntd-carrinho_' + id).text());
+        $('#qntd-carrinho_' + id).html(qtdAtual + 1);
+        cardapio.metodos.atualizarCarrinho(id, ++qtdAtual);
+
+        let icon = $('#icon-menos-' + id);
+        let btn = $('#btn-menos-' + id);
+
+
+        if (qtdAtual == 1) {
+            icon.removeClass('fa-minus');
+            icon.addClass('fa-times');
+            btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
+        } else {
+            icon.addClass('fa-minus');
+            icon.removeClass('fa-times');
+            btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
+        }
+    },
+
+    // botão remover item do carrinho
+    removerItemCarrinho: (id) => {
+        const indice = MEU_CARRINHO.findIndex((item) => item.idCarrinho == id.split("_")[1]);
+
+        MEU_CARRINHO.splice(indice, 1);
+        cardapio.metodos.atualizarBadgeTotal();
+        cardapio.metodos.atualizarQtdItensCarrinho();
+        cardapio.metodos.carregarValores();
+        cardapio.metodos.animacaoeRemover(id, indice);
+        localStorage.setItem('meu_carrinho', JSON.stringify(MEU_CARRINHO));
+    },
+    
+    animacaoeRemover: (id, indice) => {
+        item = $('#item-carrinho_' + id);
+
+        // Adicione a classe de animação
+        item.addClass('animated fadeOutRight');
+
+        item.one('animationend', function () {
+            item.remove();
+        
+
+            if (MEU_CARRINHO.length == 0) {
+                cardapio.metodos.carrinhoVazio();
+            }
+            
+        });
+    },
+
+    // atualiza o carrinho com a quantidade atual
+    atualizarCarrinho: (id, qntd) => {
+        let objIndex = MEU_CARRINHO.findIndex((obj) => {
+            return obj.idCarrinho == id.split("_")[1]
+        });
+        MEU_CARRINHO[objIndex].qntd = qntd;
+
+        // atualiza o carrinho com a quantidade atualizada
+        cardapio.metodos.atualizarBadgeTotal();
+
+        // atualiza os valores (R$) totais do carrinho
+        cardapio.metodos.carregarValores();
+
+    },
+
+    // Carrega os valores de Total do Carrinho
+    carregarValores: () => {
+        VALOR_CARRINHO = 0;
+
+        $('#lblValorTotal').text('R$ 0,00');
+
+        $.each(MEU_CARRINHO, (i, e) => {
+
+            let VALOR_ITEM = 0;
+
+            VALOR_ITEM = parseFloat(e.price);
+
+            // mostra valor do item
+            $('#preco_' + e.id + '_' + e.idCarrinho).text(`R$ ${VALOR_ITEM.toFixed(2).replace('.', ',')}`);
+
+            // atualiza valor do carrinho com valor do item * quantidade daquele item
+            VALOR_CARRINHO += parseFloat(VALOR_ITEM * e.qntd);
+
+            console.log('VALOR_CARRINHO += VALOR_ITEM * e.qntd: ' + e.qntd)
+
+            // mostra total do carrinho
+            if ((i + 1) == MEU_CARRINHO.length) {
+                $('#lblValorTotal').text(`R$ ${VALOR_CARRINHO.toFixed(2).replace('.', ',')}`);
+
+            }
+
+            // salva valor do item na memória
+            e.valorItem = VALOR_ITEM;
+
+            localStorage.setItem('meu_carrinho', JSON.stringify(MEU_CARRINHO));
+        });
+
+    },
+
+    carregarEndereco: () => {
+        if (MEU_CARRINHO.length <= 0) {
+            cardapio.metodos.mensagem('Seu carrinho esta vazio');
+            return;
+        }
+
+        if (!cardapio.metodos.validarMilkShake()) return;
+
+        cardapio.metodos.carregarEtapa(2);
+        $('#txtNome').focus()
+    },
+
+    validarMilkShake: () => {
+        for (var i = 0; i < MEU_CARRINHO.length; i++) {
+            var milkshake = MEU_CARRINHO[i];
+            var sorvetesSelecionados = milkshake.sorvetes;
+
+            if (milkshake.id.includes('milk') && (!sorvetesSelecionados || sorvetesSelecionados.length === 0)) {
+                cardapio.metodos.mensagem('Selecione pelo menos um sabor de sorvete para o ' + milkshake.name);
+                return false;
+            }
+        }
+        return true;
+    },
+
+    // API viaCEP
+    buscarCep: () => {
+        console.log('buscarCep: '+ $('#txtCEP').val().trim().replace(/\D/g, '')) ;
+        var cep = $('#txtCEP').val().trim().replace(/\D/g, '');
+
+        if (cep != '') {
+
+            // expressão regular validadora de cep
+            var validaCep = /^[0-9]{8}$/;
+
+            if (validaCep.test(cep)) {
+                
+                $.getJSON("https://viacep.com.br/ws/" + cep + "/json/?callback=?", function (dados) {
+                    
+                    if (!("erro" in dados)) {
+
+                        //if (dados.uf == 'MG') {
+                            // atualizar os campos com os valores retornados
+                            console.log('dados.logradouro: '+ dados.logradouro);
+                            cardapio.metodos.mensagem('dados.logradouro');
+                            $('#txtEndereco').val(dados.logradouro);
+                            $('#txtBairro').val(dados.bairro);
+                            $('#txtCidade').val(dados.localidade);
+                            $('#ddlUf').val(dados.uf);
+
+                            $('#txtNumero').focus();
+                        /*}
+                        else {
+                            cardapio.metodos.mensagem('Desculpe, no momento só atendemos em Minas Gerais.')
+                        }*/
+
+
+                    }
+                    else {
+                        cardapio.metodos.mensagem('CEP não encontrado. Se necessário preencha as informações manualmente.');
+
+                    }
+                })
+
+            }
+            else {
+                cardapio.metodos.mensagem('Formato do CEP inválido.');
+                $('#txtCEP').focus();
+            }
+
+        }
+
+        else {
+            cardapio.metodos.mensagem('Por favor, informe o CEP.')
+            $('#txtCEP').focus();
+        }
+    },
+
+    mascaraCep: (event) => {
+        let input = event.target;
+        const valor = input.value;
+
+
+        if (!valor) {
+            input.value = "";
+        }
+
+        input.value = valor.replace(/\D/g, '');
+        input.value = valor.replace(/(\d{5})(\d)/, '$1-$2');
+
+        if (input.value.length == 9) {
+            cardapio.metodos.buscarCep();
+        }
+    },
+
+    // validação antes de prosseguir para etapa 3
+    resumoPedido: () => {
+        let nome = $('#txtNome').val().trim();
+        let cep = $('#txtCEP').val().trim();
+        let endereco = $('#txtEndereco').val().trim();
+        let bairro = $('#txtBairro').val().trim();
+        let cidade = $('#txtCidade').val().trim();
+        let uf = $('#ddlUf').val().trim();
+        let numero = $('#txtNumero').val().trim();
+        let complemento = $('#txtComplemento').val().trim();
+
+        if (nome.length <= 3) {
+            cardapio.metodos.mensagem('Por favor informe o Nome.');
+            $('#txtNome').focus();
+            return;
+        }
+
+        if (cep.length <= 0) {
+            cardapio.metodos.mensagem('Por favor informe o CEP. Caso não tenha coloque um número qualquer');
+            $('#txtCEP').focus();
+            return;
+        }
+
+        if (endereco.length <= 0) {
+            cardapio.metodos.mensagem('Por favor informe o Endereço.');
+            $('#txtEndereco').focus();
+            return;
+        }
+
+        if (bairro.length <= 0) {
+            cardapio.metodos.mensagem('Por favor informe o Bairro.');
+            $('#txtBairro').focus();
+            return;
+        }
+
+        if (cidade.length <= 0) {
+            cardapio.metodos.mensagem('Por favor informe a Cidade.');
+            $('#txtCidade').focus();
+            return;
+        }
+
+        if (uf == '-1') {
+            cardapio.metodos.mensagem('Por favor informe o Estado (UF).');
+            $('#ddlUf').focus();
+            return;
+        }
+
+        if (numero.length <= 0) {
+            cardapio.metodos.mensagem('Por favor informe o Número.');
+            $('#txtNumero').focus();
+            return;
+        }
+
+        MEU_NOME = nome;
+
+        MEU_ENDERECO = {
+            cep: cep,
+            endereco: endereco,
+            bairro: bairro,
+            cidade: cidade,
+            uf: uf,
+            numero: numero,
+            complemento: complemento
+        }
+
+        cardapio.metodos.carregarEtapa(3);
+        cardapio.metodos.carregarResumo();
+
+    },
+
+    carregarResumo: () => {
+        $('#listaItensResumo').html('');
+
+        $.each(MEU_CARRINHO, (i, e) => {
+
+            if (!e.id.includes("milk")) {
+                let itemCarrinhoResumo = cardapio.templates.acaiResumo.replace(/\${id}/g, e.id)
+                    .replace(/\${idCarrinho}/g, e.idCarrinho)
+                    .replace(/\${img}/g, e.img)
+                    .replace(/\${nome}/g, e.name)
+                    .replace(/\${preco}/g, e.valorItem.toFixed(2).replace('.', ','))
+                    .replace(/\${qntd}/g, e.qntd);
+                    //.replace(/\${qtdAcrescimos}/g, cardapio.metodos.qtdTotalDeAcrescimosAcai(e));
+
+
+                $("#listaItensResumo").append(itemCarrinhoResumo);
+
+                $.each(e.acrescimosComuns, (indiceAcrescimo, acrescimo) => {
+
+                    let acrescimoComumResumo = cardapio.templates.acrescimosResumo.replace(/\${nome}/g, acrescimo.name);
+
+                    $('#acrescimosResumo_' + e.id + '_' + e.idCarrinho).append(acrescimoComumResumo);
+
+                });
+
+                $.each(e.acrescimosEspeciais, (indiceAcrescimo, acrescimo) => {
+
+                    let acrescimoEspecialResumo = cardapio.templates.acrescimosResumo.replace(/\${nome}/g, acrescimo.name);
+
+                    $('#acrescimosResumo_' + e.id + '_' + e.idCarrinho).append(acrescimoEspecialResumo);
+
+                });
+            }
+
+            else {
+                let itemCarrinhoResumo = cardapio.templates.milkShakeResumo.replace(/\${id}/g, e.id)
+                    .replace(/\${idCarrinho}/g, e.idCarrinho)
+                    .replace(/\${img}/g, e.img)
+                    .replace(/\${nome}/g, e.name)
+                    .replace(/\${preco}/g, e.valorItem.toFixed(2).replace('.', ','))
+                    .replace(/\${qntd}/g, e.qntd);
+
+
+                $("#listaItensResumo").append(itemCarrinhoResumo);
+
+                $.each(e.sorvetes, (indiceSorvete, sorvete) => {
+
+                    let sorvetesResumo = cardapio.templates.acrescimosResumo.replace(/\${nome}/g, sorvete.name);
+
+                    $('#sorvetesResumo_' + e.id + '_' + e.idCarrinho).append(sorvetesResumo);
+
+                });
+
+                $.each(e.coberturas, (indiceCobertura, cobertura) => {
+
+                    let coberturaResumo = cardapio.templates.acrescimosResumo.replace(/\${nome}/g, cobertura.name);
+
+                    $('#coberturaResumo_' + e.id + '_' + e.idCarrinho).append(coberturaResumo);
+
+                });
+            }
+        });
+
+        $('#resumoEndereco').html(`${MEU_ENDERECO.endereco}, ${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`);
+
+        $('#cidadeEndereco').html(`${MEU_ENDERECO.cidade} - ${MEU_ENDERECO.uf} / ${MEU_ENDERECO.cep} ${MEU_ENDERECO.complemento}`)
+
+        cardapio.metodos.finalizarPedido();
+    },
+
+    // Atualiza o link do botão de Whatsapp
+    finalizarPedido: () => {
+
+        if (MEU_CARRINHO.length > 0 && MEU_ENDERECO != null) {
+
+            var texto = `Olá, gostaria de fazer um pedido!\n\n`;
+            texto += `Nome: *${MEU_NOME}*\n\n`
+            texto += `*Já selecionei meu pedido pelo Cardápio Digital:*`;
+            texto += `\n\n*Itens do pedido:*\${itens}`;
+            texto += '\n\n*Endereço de entrega:*';
+            texto += `\n${MEU_ENDERECO.endereco}, ${MEU_ENDERECO.numero}, ${MEU_ENDERECO.bairro}`;
+            texto += `\n${MEU_ENDERECO.cidade} - ${MEU_ENDERECO.uf} / ${MEU_ENDERECO.cep} ${MEU_ENDERECO.complemento}`;
+            texto += `\n\n*Total: R$ ${VALOR_CARRINHO.toFixed(2).replace('.', ',')} (Valor sem a taxa de Entrega)*`;
+
+            var itens = '';
+            
+
+            $.each(MEU_CARRINHO, (i, e) => {
+
+                itens += `\n\n*${e.qntd}x ${e.name} ....... R$ ${e.valorItem.toFixed(2).replace('.', ',')}*\n`;
+
+
+                if (e.id.includes('milk')) {
+                    const sorvetes = e.sorvetes;
+                    const coberturas = e.coberturas
+
+
+                    itens += '\n    *Sorvete(s):*\n';
+
+                    $.each(sorvetes, (i, sorvete) => {
+                        const dots = cardapio.metodos.gerarPontos(sorvetes, sorvete);
+                        const formattedPrice = `R$ 0,00`;
+                        itens += `* ${sorvete.name} ${dots} ${formattedPrice}\n`;
+                    });
+
+                    itens += '\n    *Cobertura:*\n';
+
+                    maxLength = Math.max(...coberturas.map(item => item.name.length));
+                    $.each(coberturas, (i, cobertura) => {
+                        const dots = cardapio.metodos.gerarPontos(coberturas, cobertura);
+                        const formattedPrice = `R$ 0,00`;
+                        itens += `* ${cobertura.name} ${dots} ${formattedPrice}\n`;
+                    });
+
+                    itens += `\n--------------------------------------\n`;
+                }
+                /*else {
+
+                    const acrescimosComuns = e.acrescimosComuns;
+
+                    if (acrescimosComuns.length > 0) {
+                        itens += '\n    *Acréscimos Comuns:*\n';
+
+                    }
+
+                    $.each(acrescimosComuns, (index, acrescimo) => {
+
+                        if (e.id.includes('1l')) {
+                            if (index < 6) {
+                                const dots = cardapio.metodos.gerarPontos(acrescimosComuns, acrescimo);
+                                const formattedPrice = `R$ 0,00`;
+                                itens += `* ${acrescimo.name} ${dots} ${formattedPrice}\n`;
+                            }
+                            else {
+                                const dots = cardapio.metodos.gerarPontos(acrescimosComuns, acrescimo);
+                                const formattedPrice = `R$ ${acrescimo.price.toFixed(2).replace('.', ",")}`;
+                                itens += `* ${acrescimo.name} ${dots} ${formattedPrice}\n`;
+                            }
+
+                        } else {
+                            if (index < 3) {
+                                const dots = cardapio.metodos.gerarPontos(acrescimosComuns, acrescimo);
+                                const formattedPrice = `R$ 0,00`;
+                                itens += `* ${acrescimo.name} ${dots} ${formattedPrice}\n`;
+                            }
+                            else {
+                                const dots = cardapio.metodos.gerarPontos(acrescimosComuns, acrescimo);
+                                const formattedPrice = `R$ ${acrescimo.price.toFixed(2).replace('.', ",")}`;
+                                itens += `* ${acrescimo.name} ${dots} ${formattedPrice}\n`;
+                            }
+                        }
+                    });
+
+
+                    const acrescimosEspeciais = e.acrescimosEspeciais;
+
+                    if (acrescimosEspeciais.length > 0) {
+                        itens += '\n    *Acréscimos Especiais:*\n';
+                    }
+                    $.each(acrescimosEspeciais, (i, acrescimo) => {
+                        const dots = cardapio.metodos.gerarPontos(acrescimosEspeciais, acrescimo);
+                        const formattedPrice = `R$ ${acrescimo.price.toFixed(2).replace('.', ",")}`;
+                        itens += `* ${acrescimo.name} ${dots} ${formattedPrice}\n`;
+                    });
+
+                    itens += `\n--------------------------------------\n`;
+                }*/
+
+                // ultimo item
+                if ((i + 1) == MEU_CARRINHO.length) {
+                    texto = texto.replace(/\${itens}/g, itens);
+                    
+                    let encode = encodeURIComponent(texto);
+
+                    let URL = `https://wa.me/${CELULAR_EMPRESA}?text=${encode}`;
+
+                    $('#btnEtapaResumo').attr('href', URL);
+                   
+                }
+            });
+        }
+
+    },
+
+    /*qtdTotalDeAcrescimosAcai: (itemDeCarrinho) => {
+        return itemDeCarrinho.acrescimosComuns.length + itemDeCarrinho.acrescimosEspeciais.length;
+    },*/
+
+    carregarBotaoWhatsap: () => {
+        $('.botao-whatsapp').attr('href', `https://wa.me/${CELULAR_EMPRESA}?text=Olá preciso de um pedido em específico, não disponível no Cardapio Digital.`)
+    },
+
+    mensagem: (texto, cor = 'red', tempo = 3500) => {
+
+        let id = Math.floor(Date.now() * Math.random()).toString();
+
+        let msg = `<div id="msg-${id}" class="animated fadeInDown toast ${cor}">${texto}</div>`;
+
+        $("#container-mensagens").append(msg);
+
+        setTimeout(() => {
+            $("#msg-" + id).addClass('fadeOutUp');
+            setTimeout(() => {
+                $("#msg-" + id).remove();
+            }, 800)
+        }, tempo);
+    },
+
+    animarBadgeTotal: () => {
+        let badge = $('.botao-carrinho');
+        badge.removeClass('animated bounceIn')
+        badge.addClass('animated rubberBand');
+
+
+        badge.on('animationend', function () {
+            badge.removeClass('animated rubberBand');
+
+        });
+
+    },
+
+    limitarCheckboxes: (checkbox) => {
+        var divAvo = checkbox.closest('.acrescimosComum');
+
+        var checkboxesNaDiv = divAvo.querySelectorAll('input[id^="sorvete_"]:checked');
+
+        if (checkboxesNaDiv.length > 2) {
+            checkbox.checked = false;
+        }
+    },
+
+    gerarPontos: (adicionais, adicional) => {
+        let maxLength = Math.max(...adicionais.map(item => item.name.length));
+        const espacosEntrePontos = adicional.name.length <= 7 ? 2 : 1;
+        const dots = '-'.repeat((maxLength - adicional.name.length + espacosEntrePontos));
+        return dots;
+    },
+
+    titleize: (element) => {
+        var inputElement = element;
+        var words = inputElement.value.toLowerCase().split(" ");
+        for (var a = 0; a < words.length; a++) {
+            var w = words[a];
+            words[a] = w.charAt(0).toUpperCase() + w.slice(1);
+        }
+        inputElement.value = words.join(" ");
+    },
+
+    // obtém hora no formato decimal para comparação
+    obterHoraDecimal:() => {
+        var dataAtual = new Date();
+        var horas = dataAtual.getHours();
+        var minutos = dataAtual.getMinutes();
+    
+        var horaDecimal = parseFloat(`${horas}.${minutos}`);
+    
+        return horaDecimal;
+    },
+    
+    lojaAbertaOuFechada:() => {
+        let hora = cardapio.metodos.obterHoraDecimal();
+        let dia = new Date().getDay();
+
+        $('#container-mensagens').html(''); 
+
+
+        if((hora < LOJA_ABRE || hora >= LOJA_FECHA) || dia == 1 ){
+            
+            cardapio.metodos.mensagem(`Loja Fechada`, cor="red", tempo=10 * 60 * 1000);
+            cardapio.metodos.mensagem(`Abrimos (Ter à Dom) às ${LOJA_ABRE.toFixed(2).replace(".", ":")} hrs.`, cor="red", tempo=15000);
+
+            if((hora >= (LOJA_ABRE - 1) && hora <= LOJA_ABRE ) && dia != 1 ) {
+                cardapio.metodos.mensagem(`Agende seu pedido`, cor="green", tempo=20000);
+            }
+            
+        }
+        else {
+            cardapio.metodos.mensagem("Loja aberta, faça seu pedido!", cor='green', tempo=6000);
+        }
+    }
+}
+
+
+cardapio.templates = {
+    item: `
+    <div class="col-12 col-lg-3 col-md-3 col-sm-6 mb-3 wow fadeInUp">
+        <div class="card card-item" id="\${id}">
+            <div class="img-produto">
+                <img src="\${img}" />
+            </div>
+            <p class="title-produto text-center mt-4">
+                <b>\${nome}</b>
+            </p>
+            <p class="price-produto text-center">
+                <b>R$ \${preco}</b>
+            </p>
+            <div class="add-carrinho">
+                <span class="btn-add d-flex justify-content-center align-items-center" title="Adicionar ao Carrinho" onclick="cardapio.metodos.adicionarAoCarrinho('\${id}');cardapio.metodos.animarBadgeTotal()">
+                <i class="fas fa-shopping-bag"></i>
+                </span>
+            </div>
+        </div>
+    </div>
+    `,
+    itemCarrinho: `
+    <div class="itemCarrinho" id="item-carrinho_\${id}_\${idCarrinho}">
+        <div class="col-12 item-carrinho">
+            <div class="col-3 img-produto">
+                <img src="\${img}"
+                    alt="">
+            </div>
+            <div class="col-6 dados-produtos">
+                <p class="title-produto"><b>\${nome}</b></p>
+                <p class="price-produto"><b  id="preco_\${id}_\${idCarrinho}">R$ \${preco}</b></p>
+            </div>
+            <div class="col-3 add-carrinho">
+                <span class="btn-menos" id="btn-menos-\${id}_\${idCarrinho}" onclick="cardapio.metodos.diminuirQuantidadeCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-minus" id="icon-menos-\${id}_\${idCarrinho}"></i></span>
+                <span class="add-numero-itens" id="qntd-carrinho_\${id}_\${idCarrinho}">\${qntd}</span>
+                <span class="btn-mais" onclick="cardapio.metodos.aumentarQuantidadeCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-plus"></i></span>
+                <span class="btn-remove no-mobile" onclick="cardapio.metodos.removerItemCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-times"></i></span>
+
+            </div>
+
+        </div>
+    </div>    
+    `,
+
+    itemCarrinho2: `
+    <div class="itemCarrinho" id="item-carrinho_\${id}_\${idCarrinho}">
+        <div class="col-12 item-carrinho">
+            <div class="col-3 img-produto">
+                <img src="\${img}"
+                    alt="">
+            </div>
+            <div class="col-6 dados-produtos">
+                <p class="title-produto"><b>\${nome}</b></p>
+                <p class="price-produto"><b id="preco_\${id}_\${idCarrinho}">R$ \${preco}</b></p>
+            </div>
+            <div class="col-3 add-carrinho">
+                <span class="btn-menos" id="btn-menos-\${id}_\${idCarrinho}" onclick="cardapio.metodos.diminuirQuantidadeCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-minus" id="icon-menos-\${id}_\${idCarrinho}"></i></span>
+                <span class="add-numero-itens" id="qntd-carrinho_\${id}_\${idCarrinho}">\${qntd}</span>
+                <span class="btn-mais" onclick="cardapio.metodos.aumentarQuantidadeCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-plus"></i></span>
+                <span class="btn-remove no-mobile" onclick="cardapio.metodos.removerItemCarrinho('\${id}_\${idCarrinho}')"><i class="fas fa-times"></i></span>
+
+            </div>
+
+        </div>
+        
+        <div class="col-12 acrescimos animated bounceInDown" id="sorvetes-\${idCarrinho}">
+                <p class="title-produto"><b>Escolha os Sorvetes</b></p>
+                <p>Podem ser selecionados até 2 sabores de sorvete: </p>
+
+                <div id="sorvetes_\${id}_\${idCarrinho}" class="acrescimosComum">
+
+                </div>
+
+                <p class="title-produto coberturas"><b>Coberturas</b></p>
+                <p>Escolha um sabor de cobertura: </p>
+
+                <form>
+                <div id="coberturas_\${id}_\${idCarrinho}" class="acrescimosComum">
+
+                </div>
+                </form>       
+        </div>
+    </div>    
+    `,
+
+
+    acrescimoComum: `
+    <div class="acrescimo">
+        <input type="checkbox" id="\${id}_\${idCarrinho}" onchange="cardapio.metodos.adicionarOuRemoverAcrescimoComum(\${idCarrinho}, '\${id}'); cardapio.metodos.carregarValores()">
+        <label for="\${id}_\${idCarrinho}">\${nome}</label>
+    </div>`,
+    acrecimosEspecial: `
+    <div class="acrescimo">
+        <input type="checkbox" id="\${id}_\${idCarrinho}" class="checkbox-custom" onchange="cardapio.metodos.adicionarOuRemoverAcrescimoEspecial(\${idCarrinho}, '\${id}'); cardapio.metodos.carregarValores()">
+        <label for="\${id}_\${idCarrinho}" class="checkbox-custom-label">\${nome} <br>R$\${preco}</label>
+    </div>`,
+
+    sorvetes: `
+    <div class="acrescimo">
+        <input type="checkbox" id="\${desc}_\${id}_\${idCarrinho}" onchange="cardapio.metodos.limitarCheckboxes(this);cardapio.metodos.adicionarOuRemoverSorvete(this, \${idCarrinho}, '\${id}')">
+        <label for="\${desc}_\${id}_\${idCarrinho}">\${nome}</label>
+    </div>`,
+
+    coberturas: `
+    <div class="acrescimo">
+        <input type="radio" id="\${desc}_\${id}_\${idCarrinho}" name="\${desc}" onchange="cardapio.metodos.adicionarOuRemoverCobertura(this, \${idCarrinho}, '\${id}')">
+        <label for="\${desc}_\${id}_\${idCarrinho}">\${nome}</label>
+    </div>`,
+
+    acaiResumo: `
+        <div class="col-12 item-carrinho resumo" >
+            <div class="img-produto-resumo">
+                <img src="\${img}">
+            </div>
+            <div class="dados-produtos">
+
+                <p class="title-produto-resumo">
+                        <b>\${nome}</b>
+                </p>
+
+                <p class="price-produto-resumo">
+                    <b>R$\${preco}</b>
+                </p>
+
+            </div>
+            <p class="quantidade-produto-resumo">
+                x <b>\${qntd}</b>
+            </p>
+        </div>
+    `,
+
+    milkShakeResumo: `
+        <div class="col-12 item-carrinho resumo" >
+            <div class="img-produto-resumo">
+                <img src="\${img}">
+            </div>
+            <div class="dados-produtos">
+
+                <p class="title-produto-resumo">
+                        <b>\${nome}</b>
+                </p>
+
+                <p class="price-produto-resumo">
+                    <b>R$\${preco}</b>
+                </p>
+                <div class="acrescimos-resumo" id="sorvetesResumo_\${id}_\${idCarrinho}">
+                    <b>Sorvetes: </b>
+
+                </div>
+
+                <div class="acrescimos-resumo" id="coberturaResumo_\${id}_\${idCarrinho}">
+                    <b>Cobertura: </b>
+
+                </div>
+
+            </div>
+            <p class="quantidade-produto-resumo">
+                x <b>\${qntd}</b>
+            </p>
+        </div>
+    `,
+
+    acrescimosResumo: `
+    <div class="acrescimo">
+        <b>*</b>\${nome}, 
+    </div>`
+
+
+}
