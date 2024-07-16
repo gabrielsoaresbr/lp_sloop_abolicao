@@ -286,7 +286,7 @@ cardapio.metodos = {
                     if (qtdAtual == 1) {
                         icon.removeClass('fa-minus');
                         icon.addClass('fa-times');
-                        btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
+                        //btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
                     }
                 //}
             });
@@ -322,15 +322,15 @@ cardapio.metodos = {
         let btn = $('#btn-menos-' + id);
 
 
-        if (qtdAtual == 1) {
+        /*if (qtdAtual == 1) {
             icon.removeClass('fa-minus');
             icon.addClass('fa-times');
             btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
-        } else {
+        } else {*/
             icon.addClass('fa-minus');
             icon.removeClass('fa-times');
             btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
-        }
+        //}
 
     },
     // aumentar quantidade do item no carrinho
@@ -343,15 +343,15 @@ cardapio.metodos = {
         let btn = $('#btn-menos-' + id);
 
 
-        if (qtdAtual == 1) {
+        /*if (qtdAtual == 1) {
             icon.removeClass('fa-minus');
             icon.addClass('fa-times');
             btn.attr("style", "background-color: var(--color-red); border: var(--color-red);")
-        } else {
+        } else {*/
             icon.addClass('fa-minus');
             icon.removeClass('fa-times');
             btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
-        }
+        //}
     },
 
     // botão remover item do carrinho
