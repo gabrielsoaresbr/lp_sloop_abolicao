@@ -296,7 +296,7 @@ cardapio.metodos = {
             cardapio.metodos.carrinhoVazio();
         }
 
-        console.log('MEU_CARRINHO: ' + JSON.stringify(MEU_CARRINHO))
+        //console.log('MEU_CARRINHO: ' + JSON.stringify(MEU_CARRINHO))
         cardapio.metodos.carregarValores();
     },
 

@@ -57,13 +57,6 @@ var MENU = {
             "price": 3.00
         },
         {
-            "id": "picole-leite-milho",
-            "img": "images/menu/milho.jpg",
-            "name": "Milho",
-            "dsc": "Picolé ao leite - Milho",
-            "price": 3.00
-        },
-        {
             "id": "picole-leite-leite-cond",
             "img": "images/menu/leite-condensado.jpg",
             "name": "Leite Condensado",
@@ -71,10 +64,24 @@ var MENU = {
             "price": 3.00
         },
         {
+            "id": "picole-leite-milho",
+            "img": "images/menu/milho.jpg",
+            "name": "Milho",
+            "dsc": "Picolé ao leite - Milho",
+            "price": 3.00
+        },
+        {
             "id": "picole-leite-chocolate",
             "img": "images/menu/chocolate.jpg",
             "name": "Chocolate",
             "dsc": "Picolé ao leite - Chocolate",
+            "price": 3.00
+        },
+        {
+            "id": "picole-leite-graviola",
+            "img": "images/menu/leite-condensado.jpg",
+            "name": "Graviola",
+            "dsc": "Picolé ao leite - Graviola",
             "price": 3.00
         },
         {
@@ -87,14 +94,14 @@ var MENU = {
         {
             "id": "picole-recheado-acai",
             "img": "images/menu/picole_acai_leite_cond.jpg",
-            "name": "Açaí com leite condensado",
+            "name": "Açaí leite condensado",
             "dsc": "Picolé recheado - Açaí com leite condensado",
             "price": 4.00
         },
         {
             "id": "picole-recheado-morango",
             "img": "images/menu/picole_morango_leite_cond.jpg",
-            "name": "Morango com leite condensado",
+            "name": "Morango leite condensado",
             "dsc": "Picolé recheado - Morango com leite condensado",
             "price": 4.00
         },
@@ -124,7 +131,7 @@ var MENU = {
         {
             "id": "picole-max-banana",
             "img": "images/menu/max-banana.png",
-            "name": "Max Banana com chocolate",
+            "name": "Banana chocolate",
             "dsc": "Max Banana com chocolate",
             "price": 4.50
         },
@@ -159,14 +166,14 @@ var MENU = {
         {
             "id": "picole-premium-com-bolo-red-velvet",
             "img": "images/menu/red-velvet.jpeg",
-            "name": "Red Velvet e floresta negra",
+            "name": "Red Velvet floresta negra",
             "dsc": "Red Velvet e floresta negra",
             "price": 9.00
         },
         {
             "id": "picole-premium-com-bolo-brownie-creme",
             "img": "images/menu/brownie-creme.jpeg",
-            "name": "Brownie e creme",
+            "name": "Brownie creme",
             "dsc": "Brownie e creme",
             "price": 9.00
         }
@@ -175,70 +182,70 @@ var MENU = {
         {
             "id": "pote-acai-250-natural",
             "img": "images/menu/acai-250-natural.jpeg",
-            "name": "Pote açaí 250ml natural",
+            "name": "Açaí natural 250ml",
             "dsc": "Pote açaí 250ml natural",
             "price": 7.50
         },
         {
             "id": "pote-acai-250-banana",
             "img": "images/menu/acai-250-banana.jpeg",
-            "name": "Pote açaí 250ml banana",
+            "name": "Açaí banana 250ml",
             "dsc": "Pote açaí 250ml banana",
             "price": 7.50
         },
         {
             "id": "pote-acai-250-morango",
             "img": "images/menu/acai-250-morango.jpeg",
-            "name": "Pote açaí 250ml morango",
+            "name": "Açaí morango 250ml",
             "dsc": "Pote açaí  250mlmorango",
             "price": 7.50
         },
         {
             "id": "pote-acai-500-natural",
             "img": "images/menu/acai-500-natural.jpeg",
-            "name": "Pote açaí 500ml natural",
+            "name": "Açaí natural 500ml",
             "dsc": "Pote açaí 500ml natural",
             "price": 14.00
         },
         {
             "id": "pote-acai-500-banana",
             "img": "images/menu/acai-500-banana.jpeg",
-            "name": "Pote açaí 500ml banana",
+            "name": "Açaí banana 500ml",
             "dsc": "Pote açaí 500ml banana",
             "price": 14.00
         },
         {
             "id": "pote-acai-500-morango",
             "img": "images/menu/acai-500-morango.jpeg",
-            "name": "Pote açaí 500ml morango",
+            "name": "Açaí morango 500ml",
             "dsc": "Pote açaí 500ml morango",
             "price": 14.00
         },
         {
             "id": "pote-acai-1l-natural",
             "img": "images/menu/acai-1l-natural.jpeg",
-            "name": "Pote açaí 1l natural",
+            "name": "Açaí natural 1l",
             "dsc": "Pote açaí 1l natural",
             "price": 21.00
         },
         {
             "id": "pote-acai-1l-banana",
             "img": "images/menu/acai-1l-banana.jpeg",
-            "name": "Pote açaí 1l banana",
+            "name": "Açaí banana 1l",
             "dsc": "Pote açaí 1l banana",
             "price": 21.00
         },
         {
             "id": "pote-acai-1l-morango",
             "img": "images/menu/acai-1l-morango.jpeg",
-            "name": "Pote açaí 1l morango",
+            "name": "Açaí morango 1l",
             "dsc": "Pote açaí 1l morango",
             "price": 21.00
         },
         {
             "id": "pote-acai-1.8l-leite-cond",
             "img": "images/menu/acai-1.8l-leite-cond.png",
-            "name": "Pote açaí 1.8l leite cond ",
+            "name": "Açaí leite cond 1.8l",
             "dsc": "Pote açaí 1.8l leite cond",
             "price": 25.00
         }
@@ -273,7 +280,7 @@ var MENU = {
             "price": 20.00
         }
     ],
-    "potes-1.5l": [
+    "potes-15l": [
         {
             "id": "pote-1.5l-napolitano",
             "img": "images/menu/pote-1.5l-napolitano.jpg",
@@ -343,6 +350,57 @@ var MENU = {
             "name": "Pote 1.5l diet creme",
             "dsc": "Pote 1.5l diet creme",
             "price": 26.00
+        }
+    ],
+    "potes-18l": [
+        {
+            "id": "pote-spec-leite-trufado",
+            "img": "images/menu/copo-spec-leite-trufado.jpeg",
+            "name": "Leite trufado",
+            "dsc": "Leite trufado",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-torta-limao",
+            "img": "images/menu/copo-spec-torta-limao.jpeg",
+            "name": "Torta limão",
+            "dsc": "Torta limão",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-pudim",
+            "img": "images/menu/copo-spec-pudim.jpeg",
+            "name": "Pudim",
+            "dsc": "Pudim",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-iogurte-grego",
+            "img": "images/menu/copo-spec-iogurte-grego.jpeg",
+            "name": "Iogurte grego c/ frutas verm",
+            "dsc": "Iogurte grego c/ frutas verm",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-cafe",
+            "img": "images/menu/copo-spec-panna-cotta.jpeg",
+            "name": "Café moka",
+            "dsc": "Café moka",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-chocolate-avela",
+            "img": "images/menu/copo-spec-panna-cotta.jpeg",
+            "name": "Chocolate c/ avelâs",
+            "dsc": "Chocolate c/ avelâs",
+            "price": 22.00
+        },
+        {
+            "id": "pote-spec-panna-cotta",
+            "img": "images/menu/copo-spec-panna-cotta.jpeg",
+            "name": "Panna Cotta",
+            "dsc": "Panna Cotta",
+            "price": 22.00
         }
     ],
     "copos": [
