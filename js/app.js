@@ -329,7 +329,7 @@ cardapio.metodos = {
         } else {*/
             icon.addClass('fa-minus');
             icon.removeClass('fa-times');
-            btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
+            //btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
         //}
 
     },
@@ -350,7 +350,7 @@ cardapio.metodos = {
         } else {*/
             icon.addClass('fa-minus');
             icon.removeClass('fa-times');
-            btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
+            //btn.attr("style", "background-color: var(--color-secondary); border: var(--color-secondary);")
         //}
     },
 
